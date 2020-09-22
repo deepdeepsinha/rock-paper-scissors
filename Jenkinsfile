@@ -1,5 +1,5 @@
 node { 
-	#testing pull requests
+	#how are you
 	def prefix= ''
 	if (isUnix()) 
 		prefix = '~/setup/git/';
