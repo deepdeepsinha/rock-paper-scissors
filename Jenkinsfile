@@ -1,5 +1,5 @@
 node { 
-	#how are you
+	#how are you buddy !!!!!!!
 	def prefix= ''
 	if (isUnix()) 
 		prefix = '~/setup/git/';
